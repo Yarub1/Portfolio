@@ -17,9 +17,11 @@ const HeaderSection = () => {
           <div class="flex-container">
             <div id="cssportal-grid-Header">
               <div id="divC">
-                <a className="Scroll" href="/#aboutMe">
-                  <span className="scroll-text">scroll down</span>
-                </a>
+                
+                  <a className="Scroll" href="/#aboutMe">
+                    scroll down
+                  </a>
+                
               </div>
               <div id="divR">
                 <h1>

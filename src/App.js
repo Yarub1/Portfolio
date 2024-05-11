@@ -9,7 +9,7 @@ import { EffectComposer } from "@react-three/postprocessing";
 import { Canvas } from "@react-three/fiber";
 import { Text as DreiText } from "@react-three/drei";
 import Modesfa from "./font/Modesfa.otf";
-import { useMediaQuery } from "react-responsive";
+import { useMediaQuery } from "react-responsive"; // Add this line
 import img from "./assets/img/1.png";
 import { useTexture } from "@react-three/drei";
 import ScrollToTop from "react-scroll-up";
