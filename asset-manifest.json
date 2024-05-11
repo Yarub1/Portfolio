@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.cd34bfbe.css",
-    "main.js": "/Portfolio/static/js/main.e69695ed.js",
-    "static/js/451.bf577b4b.chunk.js": "/Portfolio/static/js/451.bf577b4b.chunk.js",
-    "static/js/453.bbea18f0.chunk.js": "/Portfolio/static/js/453.bbea18f0.chunk.js",
+    "main.js": "/Portfolio/static/js/main.79b3b56b.js",
+    "static/js/451.3a4103fe.chunk.js": "/Portfolio/static/js/451.3a4103fe.chunk.js",
+    "static/js/453.0a7f0965.chunk.js": "/Portfolio/static/js/453.0a7f0965.chunk.js",
     "static/media/1.png": "/Portfolio/static/media/1.8f760e92cfa54ae75b0f.png",
     "static/media/Modesfa.otf": "/Portfolio/static/media/Modesfa.7e9f9f218c664eefa886.otf",
     "static/media/Edensor-FREE.otf": "/Portfolio/static/media/Edensor-FREE.025575d3c9fd4bcef695.otf",
@@ -11,12 +11,12 @@
     "static/media/pptelegraf-regular.otf": "/Portfolio/static/media/pptelegraf-regular.7a1d1a884ed6f9b965c1.otf",
     "index.html": "/Portfolio/index.html",
     "main.cd34bfbe.css.map": "/Portfolio/static/css/main.cd34bfbe.css.map",
-    "main.e69695ed.js.map": "/Portfolio/static/js/main.e69695ed.js.map",
-    "451.bf577b4b.chunk.js.map": "/Portfolio/static/js/451.bf577b4b.chunk.js.map",
-    "453.bbea18f0.chunk.js.map": "/Portfolio/static/js/453.bbea18f0.chunk.js.map"
+    "main.79b3b56b.js.map": "/Portfolio/static/js/main.79b3b56b.js.map",
+    "451.3a4103fe.chunk.js.map": "/Portfolio/static/js/451.3a4103fe.chunk.js.map",
+    "453.0a7f0965.chunk.js.map": "/Portfolio/static/js/453.0a7f0965.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd34bfbe.css",
-    "static/js/main.e69695ed.js"
+    "static/js/main.79b3b56b.js"
   ]
 }
