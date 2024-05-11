@@ -1,17 +1,45 @@
 {
   "name": "lab2",
   "version": "0.1.0",
+  "homepage": "https://Yarub1.github.io/Portfolio",
   "private": true,
   "dependencies": {
+    "@nextui-org/react": "^2.3.6",
+    "@react-three/drei": "^9.105.4",
+    "@react-three/postprocessing": "^2.16.2",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "@whatisjery/react-fluid-distortion": "^1.3.2",
+    "bcryptjs": "^2.4.3",
+    "cursor-style": "^1.3.3",
+    "devicon": "^2.16.0",
+    "devicon-react": "^1.1.1",
+    "dotenv": "^16.4.5",
+    "emailjs-com": "^3.2.0",
+    "framer-motion": "^11.1.9",
+    "gsap": "^3.12.5",
+    "hamburger-react": "^2.5.0",
+    "leva": "^0.9.35",
+    "postprocessing": "^6.35.4",
     "react": "^18.3.0",
     "react-dom": "^18.3.0",
+    "react-fast-marquee": "^1.6.4",
+    "react-grid-layout": "^1.4.4",
+    "react-icons": "^5.2.1",
+    "react-powerglitch": "^1.0.3",
+    "react-responsive": "^10.0.0",
+    "react-router-dom": "^6.23.0",
     "react-scripts": "5.0.1",
+    "react-scroll": "^1.9.0",
+    "react-scroll-up": "^1.4.0",
+    "react-type-animation": "^3.2.0",
+    "three": "^0.164.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+     "predeploy": "npm run build",
+     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -34,5 +62,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }

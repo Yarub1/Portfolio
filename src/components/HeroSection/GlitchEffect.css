@@ -1,0 +1,10 @@
+.glitch-canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  pointer-events: none;
+  user-select: none;
+  opacity: 0.10;
+
+}

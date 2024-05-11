@@ -1,0 +1,58 @@
+{
+  "name": "YARUB ADNAN",
+  "title": "Full Stack Developer & Cybersecurity Specialist",
+  "location": "Nyköping, Sweden",
+  "summary": "Full Stack developer and cybersecurity enthusiast based in Nyköping, Sweden. I strive to improve user experiences and apply advanced security techniques. I care about innovation and development in every project through elegant code and strong security measures. As a passionate person, I constantly seek new challenges and opportunities for growth. Out of the world Technology, I find calm and inspiration in the melody of music.",
+  "experience": [
+    {
+      "position": "Full Stack Developer & Cybersecurity Specialist",
+      "company": "Freelance",
+      "location": "Sweden",
+      "description": "Designs, develops, and maintains secure and scalable web applications while prioritizing user experience. Proficient in hardware maintenance and troubleshooting. Implements innovative cybersecurity solutions to safeguard systems and data integrity."
+    },
+    {
+      "position": "Surveying Engineer Intern",
+      "company": "Nyköping Lantmäteriet",
+      "location": "Nyköping, Sweden",
+      "description": "Supported cadastral mapping and land surveying projects, enhancing skills in data analysis and project management."
+    },
+    {
+      "position": "Project Supervisor",
+      "company": "Dpik - Group of Companies",
+      "location": "Malaysia",
+      "description": "Led civil engineering projects from conception to completion, ensuring precision and quality throughout."
+    },
+    {
+      "position": "Geospatial Engineer",
+      "company": "Irakiska ministeriet för oljeraffinaderi",
+      "description": "Focused on land surveying for infrastructure projects, facilitating successful project execution through meticulous planning and analysis."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Real Estate Formation Technology",
+      "institution": "Högskolan i Gävle",
+      "location": "Gävle, Sweden"
+    },
+    {
+      "degree": "Diploma in Surveying Engineering",
+      "institution": "Irakiska tekniska institutet"
+    },
+    {
+      "degree": "Edugrade NET23 ",
+      "location": "Online",
+      "status": "In Progress"
+    }
+  ],
+  "skills": [
+    "Full Stack Web Development",
+    "Cybersecurity Solutions",
+    "Hardware Maintenance & Troubleshooting",
+    "System Administration",
+    "Innovative Problem-Solving",
+    "Geospatial Analysis",
+    "Database Management (SQL, NoSQL)",
+    "Responsive Web Design",
+    "Team Collaboration & Agile Project Management"
+  ]
+}

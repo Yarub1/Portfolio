@@ -1,0 +1,97 @@
+:root {
+color:#fff;
+background-color:#000;
+font-synthesis:none;
+text-rendering:optimizeLegibility;
+-webkit-font-smoothing:antialiased;
+-moz-osx-font-smoothing:grayscale
+}
+
+body {
+margin:0;
+display:flex;
+place-items:center;
+min-height:100vh
+}
+
+.bouncing-blob {
+width:32vw;
+aspect-ratio:1;
+border-radius:50%;
+will-change:transform;
+position:absolute;
+z-index:1;
+top:0;
+left:0;
+transform-origin:left top
+}
+
+.bouncing-blob--blue {
+background:#171717a5
+}
+
+.bouncing-blob--white {
+background:#000000a9;
+z-index:2;
+width:15vw
+}
+
+.bouncing-blob--purple {
+background:#363636
+}
+
+.bouncing-blob--pink {
+background:#000000ba
+}
+
+.bouncing-blobs-container {
+position:fixed;
+z-index:-1;
+top:0;
+left:0;
+width:100%;
+height:100%
+}
+
+.bouncing-blobs-glass {
+position:absolute;
+z-index:2;
+top:0;
+left:0;
+width:100%;
+height:100%;
+backdrop-filter:blur(140px);
+-webkit-backdrop-filter:blur(140px);
+pointer-events:none
+}
+
+.bouncing-blobs {
+position:absolute;
+z-index:1;
+top:0;
+left:0;
+width:100%;
+height:100%
+}
+
+@media (max-width: 1200px) {
+.bouncing-blobs-glass {
+backdrop-filter:blur(120px);
+-webkit-backdrop-filter:blur(120px)
+}
+}
+
+@media (max-width: 500px) {
+.bouncing-blob {
+width:60vw
+}
+
+.bouncing-blob--white {
+width:30vw
+}
+
+.bouncing-blobs-glass {
+backdrop-filter:blur(90px);
+-webkit-backdrop-filter:blur(90px)
+}
+}

@@ -1,0 +1,13 @@
+.footer-container {
+border-top:#fff 1px solid;
+background-color:#030303;
+padding:20px 0;
+text-align:center;
+background:linear-gradient(135deg,#0000 18.75%,#000 0 31.25%,#0000 0),repeating-linear-gradient(45deg,#000 -6.25% 6.25%,#ffffff0c 0 18.75%);
+background-size:34px 34px
+}
+
+.content {
+font-size:14px;
+color:#6c757d
+}

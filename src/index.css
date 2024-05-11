@@ -1,13 +1,46 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import "https://fonts.googleapis.com/css2?family=Anta&family=Braah+One&family=Figtree:ital,wght@0,300..900;1,300..900&family=Gidugu&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Sans+Medefaidrin:wght@400..700&family=Orbitron:wght@400..900&family=Tilt+Warp:XROT,YROT@8,-15&display=swap";
+
+@font-face {
+font-family:'pptelegraf';
+src:url(./font/pptelegraf-regular.otf) format("opentype")
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@font-face {
+font-family:'pptelegraf-bold';
+src:url(./font/pptelegraf-ultrabold.otf) format("opentype")
+}
+
+@font-face {
+font-family:'Edensor';
+src:url(./font/Edensor-FREE.otf) format("opentype")
+}
+
+@font-face {
+font-family:'Modesfa';
+src:url(./font/Modesfa.otf) format("opentype")
+}
+
+html {
+box-sizing:border-box;
+overflow-x:hidden;
+padding:0 auto
+}
+
+*,:before,:after {
+box-sizing:inherit
+}
+
+body {
+margin:0 auto
+}
+
+@media screen and (min-width: 250px) and (max-width: 860px) {
+html {
+box-sizing:border-box;
+overflow-x:hidden;
+width:95%;
+box-sizing:border-box;
+overflow-x:hidden;
+
+}
 }
