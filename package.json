@@ -1,7 +1,7 @@
 {
-  "name": "lab2",
+  "name": "Portfolio",
   "version": "0.1.0",
-  "homepage": "https://yarub1.github.io/main/",
+  "homepage": "https://yarub1.github.io/Portfolio/",
   "private": true,
   "dependencies": {
     "@nextui-org/react": "^2.3.6",
